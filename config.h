@@ -10,8 +10,8 @@ static const unsigned int gappiv    = 10;	/* vert gap */
 static const unsigned int gappoh    = 10;	/* horiz gap to bezel */
 static const unsigned int gappov    = 10;	/* vert gap to bezel */
 static const int smartgaps	    = 0;	/* 1 = one window no gaps, 0 = one window gaps */
-static const char *fonts[]          = { "monospace:size=10" };
-static const char dmenufont[]       = "monospace:size=10";
+static const char *fonts[]          = { "xos4 Terminus:style=bold:size=10" };
+static const char dmenufont[]       = "xos4 Terminus:syle=bold:size=10";
 static const char col_gray1[]       = "#222222";
 static const char col_gray2[]       = "#444444";
 static const char col_gray3[]       = "#bbbbbb";
